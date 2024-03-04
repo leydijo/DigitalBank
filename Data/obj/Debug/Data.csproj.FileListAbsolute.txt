@@ -1,0 +1,9 @@
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Data\bin\Debug\Data.dll
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Data\bin\Debug\Data.pdb
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Data\bin\Debug\Entity.dll
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Data\bin\Debug\Entity.pdb
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Data\obj\Debug\Data.csproj.Up2Date
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Data\obj\Debug\Data.dll
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Data\obj\Debug\Data.pdb

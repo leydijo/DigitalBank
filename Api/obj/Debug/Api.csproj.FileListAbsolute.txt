@@ -1,0 +1,7 @@
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Api\bin\Api.dll.config
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Api\bin\Api.dll
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Api\bin\Api.pdb
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Api\obj\Debug\Api.csproj.AssemblyReference.cache
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Api\obj\Debug\Api.dll
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Api\obj\Debug\Api.pdb

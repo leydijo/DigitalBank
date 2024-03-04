@@ -1,0 +1,15 @@
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Presentation\bin\Debug\Presentation.exe
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Presentation\bin\Debug\Business.dll
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Presentation\bin\Debug\Data.dll
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Presentation\bin\Debug\Business.pdb
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Presentation\bin\Debug\Data.pdb
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Presentation\obj\Debug\Presentation.datau.resources
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Presentation\obj\Debug\Presenta.BC777DBE.Up2Date
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Presentation\obj\Debug\Presentation.exe
+C:\Users\Leydi\Documents\PruebaDigitalBank\ServiceDigitalBack\Presentation\obj\Debug\Presentation.pdb
